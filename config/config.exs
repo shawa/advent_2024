@@ -1,3 +1,3 @@
 import Config
 
-config :ex_advent, otp_app: :ex_advent
+config :advent_2024, otp_app: :advent_2024
