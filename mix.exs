@@ -22,6 +22,7 @@ defmodule ExAdvent.MixProject do
   defp deps do
     [
       {:scribe, "~> 0.11"},
+      {:nx, "~> 0.9"},
       {:nimble_parsec, "~> 1.4"}
     ]
   end
