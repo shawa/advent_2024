@@ -27,6 +27,7 @@ defmodule ExAdvent.MixProject do
       {:nx, "~> 0.9"},
       {:nimble_parsec, "~> 1.4"},
       {:ex_doc, "~> 0.35.1"},
+      {:stream_data, "~> 1.1.2"},
       {:libgraph, "~> 0.16"}
     ]
   end
